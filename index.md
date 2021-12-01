@@ -16,83 +16,43 @@ To become a leading developer, complete work in time and support the organizatio
 
 ## EDUCATION
 
-Bachelor of Technology | Vignan’s Lara Institute of Technology & Science
-Affiliated to Jawaharlal Nehru Technological University (JNTU) , Kakinada
-Expected to graduate in 2022
-Attained 8.3 CGPA up to current semester
+	BTech Computer Science and Engineering CGPA: 8.5 (until now)
+                Year of Completion : 2021
+	Intermediate (12th Standard)  : 
+     Subjects: MPC  , Board of Intermediate, Vijayawada , A.P
+     Percentage : 95.3                    Year  : 2017
+	10th Class :  SSC  ;   
+     CGPA   :  9.2                              Year : 2015
 
-Intermediate | NRI Junior College, Board of Intermediate Education
-2016-2018
-Attained 94%
-
-10th Class | Adarsh English Medium School, Board of Secondary Education
-2006-2016
-Attained 9.3 GPA
 
 ### PROJECTS
+-	Currently working on parallel programming techniques for matrix computations. (Exposure to use of shared memory programming-openMP and using message passing library MPI)
+-	 Exposure to use of mathematical kernel library(MKL on Intel)
+-	 Exposure to GPU Computing
+-	Advisor: Dr. T K Rao                                                       Mentor:Dr. V C V Rao, CDAC-Pune
 
 
-## Speak Bot
+## Parallel Computing
 
 Speak bot is a basic level assistance which can retrieve data from Wikipedia, conduct 
 quize and works with a set of pre-loaded commands based on voice control.
 
-## Hospital Management System | C++
+## Text to image synthesis using DCGANs.                   
 
-It is a Json file based project having all the data saved in a Json file we can retrieve, 
-modify and can do some more operations on the data.
+-	Trying to generate the image using given description with high quality.
+-	Exploring Deep Neural Network.
+-	Exploring Computer Graphics
+Mentor: prof P. Jeevana Jyothi
 
-## 
+## Neural style transfer (self study)                              
+## Multiple sequence alignment solving using  reinforcement learning approach  (November 2020 – still working)
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+Mentor: prof P. Jeevana Jyothi
 
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
+### Skill Sets 
+  Programming   : C,C++,Python, JAVA( Exposure to Basics),Fortran(Exposure to Basics)
+	Software           : Intel Parallel Studio
+	Hardware         : Windows, Linux
 
 ### Definition lists can be used with HTML syntax.
 
