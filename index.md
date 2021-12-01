@@ -10,44 +10,39 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Project 1
+# OBJECTIVE
 
-Fraud Detection
+To become a leading developer, complete work in time and support the organization.
 
-## Project 2
+## EDUCATION
 
-Time Series Finance Model
+Bachelor of Technology | Vignan’s Lara Institute of Technology & Science
+Affiliated to Jawaharlal Nehru Technological University (JNTU) , Kakinada
+Expected to graduate in 2022
+Attained 8.3 CGPA up to current semester
 
-### Header 3
+Intermediate | NRI Junior College, Board of Intermediate Education
+2016-2018
+Attained 94%
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+10th Class | Adarsh English Medium School, Board of Secondary Education
+2006-2016
+Attained 9.3 GPA
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+### PROJECTS
 
-#### Header 4
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+## Speak Bot
 
-##### Header 5
+Speak bot is a basic level assistance which can retrieve data from Wikipedia, conduct 
+quize and works with a set of pre-loaded commands based on voice control.
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+## Hospital Management System | C++
 
-###### Header 6
+It is a Json file based project having all the data saved in a Json file we can retrieve, 
+modify and can do some more operations on the data.
+
+## 
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
